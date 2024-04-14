@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+  <raw name="consumer_onesignal_keep">res/raw/consumer_onesignal_keep.xml</raw>
+</resources>

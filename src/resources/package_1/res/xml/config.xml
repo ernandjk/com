@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<widget version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <access origin="*" />
+  <feature name="OneSignalPush">
+    <param name="android-package"
+           value="com.onesignal.cordova.OneSignalPush" />
+  </feature>
+  <resource-file src="locales/android/drawable-mdpi/ic_stat_onesignal_default.png"
+                 target="app/src/main/res/drawable-mdpi/ic_stat_onesignal_default.png" />
+  <resource-file src="locales/android/drawable-hdpi/ic_stat_onesignal_default.png"
+                 target="app/src/main/res/drawable-hdpi/ic_stat_onesignal_default.png" />
+  <resource-file src="locales/android/drawable-xhdpi/ic_stat_onesignal_default.png"
+                 target="app/src/main/res/drawable-xhdpi/ic_stat_onesignal_default.png" />
+  <resource-file src="locales/android/drawable-xxhdpi/ic_stat_onesignal_default.png"
+                 target="app/src/main/res/drawable-xxhdpi/ic_stat_onesignal_default.png" />
+  <resource-file src="locales/android/drawable-xxxhdpi/ic_stat_onesignal_default.png"
+                 target="app/src/main/res/drawable-xxxhdpi/ic_stat_onesignal_default.png" />
+</widget>
